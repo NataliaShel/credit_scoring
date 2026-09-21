@@ -156,9 +156,3 @@ jupyter notebook
 ## 👤 Автор
 
 - **GitHub:** [@NataliaShel](https://github.com/NataliaShel)
-
----
-
-## 📄 Ліцензія
-
-Цей проєкт поширюється під ліцензією MIT. Детальніше див. у файлі [LICENSE](LICENSE).# credit_scoring
